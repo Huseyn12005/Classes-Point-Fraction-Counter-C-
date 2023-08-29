@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes(Point,Fraction,Counter)C#", "FunctionsC#\Classes(Point,Fraction,Counter)C#.csproj", "{07C6E6E2-CF97-453B-960B-D3038D8E6768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C6E6E2-CF97-453B-960B-D3038D8E6768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C6E6E2-CF97-453B-960B-D3038D8E6768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C6E6E2-CF97-453B-960B-D3038D8E6768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C6E6E2-CF97-453B-960B-D3038D8E6768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9526E3-3264-4620-A38C-6E77BB3F9436}
+	EndGlobalSection
+EndGlobal
